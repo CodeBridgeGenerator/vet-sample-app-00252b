@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Coco",
+        "breed": "Persian",
+        "age": 3
+    },
+    {
+        "name": "Mellow",
+        "breed": "Siamese",
+        "age": 2
+    }
+]
